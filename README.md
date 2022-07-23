@@ -2,12 +2,12 @@
 <h3 align="center">A passionate software engineer from Chicago</h3>
 
 
+<p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
+
  <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="800" height="400"> 
 
 
 
-
-<p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
 
 
 
@@ -19,7 +19,7 @@
 - 📫 How to reach me **leodpenrose@gmail.com**
 
 - ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
 
 
 
