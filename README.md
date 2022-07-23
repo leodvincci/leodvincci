@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Chicago</h3>
 
 
- <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="1000" height="400"> 
+ <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="800" height="400"> 
 
 
 
