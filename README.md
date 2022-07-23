@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
