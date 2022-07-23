@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leo D. Penrose</h1>
 <h3 align="center">A passionate software engineer from Chicago</h3>
 
-<p align="left"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
+<p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
+
+
+
 
 - 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
 
@@ -10,6 +13,13 @@
 - 📫 How to reach me **leodpenrose@gmail.com**
 
 - ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
+
+
+ <img src="https://media3.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47b84nm5gze1dpduppeab2hbz36pn7bwbx1g7nqd5j&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="1000" height="600"> 
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
