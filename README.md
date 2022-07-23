@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
 
 
- <img src="https://media3.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47b84nm5gze1dpduppeab2hbz36pn7bwbx1g7nqd5j&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="1000" height="600"> 
+ <img align="center" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="800" height="400"> 
 
 
 
