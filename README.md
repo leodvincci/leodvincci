@@ -1,26 +1,39 @@
 <h1 align="center">Hi 👋, I'm Leo D. Penrose</h1>
 <h3 align="center">A passionate software engineer from Chicago</h3>
 
+<div align="center">
+ <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="500" height="400"> 
+
+</div>
+
+
 
 <p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
 
- <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="800" height="400"> 
 
 
 
 
 
 
+<div  align="center">
 
-- 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
+# 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
+# 📝 I regularly write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
 
-- 📫 How to reach me **leodpenrose@gmail.com**
+# 📫 How to reach me **leodpenrose@gmail.com**
 
-- ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
+# ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
+ 
+ 
+ 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" /></p>
+
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
