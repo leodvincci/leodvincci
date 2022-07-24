@@ -23,7 +23,7 @@
  
 ## 📝 I regularly write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
 
- <h2> 📫 How to reach me **leodpenrose@gmail.com </h2>
+<!--  <h2> 📫 How to reach me **leodpenrose@gmail.com </h2> -->
 
 ## ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
  
