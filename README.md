@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Leo D. Penrose</h1>
+<img src="https://user-images.githubusercontent.com/90817505/180651711-cb6d2b7e-1cdd-4acc-aa1b-e2dde987128e.jpg" alt="banner header (1560 × 340 px)" style="max-width: 100%;">
+
 <h3 align="center">A passionate software engineer from Chicago</h3>
 
 <div align="center">
  <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
 
 </div>
-
 
 
 <p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
