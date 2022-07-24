@@ -18,11 +18,12 @@
 
 <div  align="center">
 
-## 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
-
+<!-- ## 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
+ -->
+ 
 ## 📝 I regularly write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
 
-## 📫 How to reach me **leodpenrose@gmail.com**
+ <h2> 📫 How to reach me **leodpenrose@gmail.com </h2>
 
 ## ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
  
