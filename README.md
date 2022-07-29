@@ -16,7 +16,7 @@
 
 <!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
 
-### ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
+### ⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
  
  
  
