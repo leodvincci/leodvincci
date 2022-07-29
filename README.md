@@ -1,41 +1,33 @@
 <!-- <h1 align="center">Hi 👋, I'm Leo D. Penrose</h1> -->
 <img src="https://user-images.githubusercontent.com/90817505/180651711-cb6d2b7e-1cdd-4acc-aa1b-e2dde987128e.jpg" alt="banner header (1560 × 340 px)" style="max-width: 100%;">
 
-<h3 align="center">I'm a software engineer studying Computer Science at DePaul University in Chicago</h3>
-
-
-
-
-<div align="center">
-
-<div align="center">
- <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
- 
- 
-
-</div>
-
-<p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
-
-
-
+<h1 align="center">I'm a college student studying Computer Science at DePaul University in Chicago</h3>
+<h2 align="center">I'm Interested in Developing Solutions for Complex Science & Engineering Problems Utilizing Artificial Intelligence and Software Engineering</h4>
 
 
 
 <div  align="center">
 
 
-<!-- ## 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
+<!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
  -->
  
-## 📝 I regularly write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
+### 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
 
-<!--  <h2> 📫 How to reach me **leodpenrose@gmail.com </h2> -->
+<!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
 
-## ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
+### ⚡ Fun fact **I'm a Navy Vet with 3 deployments**
  
  
  
+<div align="center">
+ <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
+
+</div>
+
+<p align="center"> <a href="https://twitter.com/dvincicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dvincicodes?logo=twitter&style=for-the-badge" alt="dvincicodes" /></a> </p>
+
+
 
 
 
