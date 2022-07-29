@@ -4,10 +4,6 @@
 <h3 align="center">I'm a software engineer studying Computer Science at DePaul University in Chicago</h3>
 
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leodvincci&show_icons=true&locale=en&layout=compact" alt="leodvincci" />
-</div>
-
 
 
 <div align="center">
