@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Leo D. Penrose</h1> -->
 <img src="https://user-images.githubusercontent.com/90817505/180651711-cb6d2b7e-1cdd-4acc-aa1b-e2dde987128e.jpg" alt="banner header (1560 × 340 px)" style="max-width: 100%;">
 
-<h1 align="center">I'm a college student studying Computer Science at DePaul University in Chicago</h3>
+<h1 align="center">I study Computer Science at DePaul University in Chicago</h3>
 <h2 align="center">I'm Interested in Developing Solutions for Complex Science & Engineering Problems Utilizing Artificial Intelligence and Software Engineering</h4>
 
 
