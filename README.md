@@ -2,6 +2,12 @@
 <img src="https://user-images.githubusercontent.com/90817505/180651711-cb6d2b7e-1cdd-4acc-aa1b-e2dde987128e.jpg" alt="banner header (1560 × 340 px)" style="max-width: 100%;">
 
 <h1 align="center">I study Computer Science at DePaul University in Chicago</h3>
+
+
+<div  align="center">
+<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+</div>
 <h2 align="center">I'm Interested in Developing Solutions for Complex Science & Engineering Problems Utilizing Artificial Intelligence and Software Engineering</h4>
 
 
