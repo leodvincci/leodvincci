@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Leo D. Penrose</h1> -->
-<img src="https://user-images.githubusercontent.com/90817505/180651711-cb6d2b7e-1cdd-4acc-aa1b-e2dde987128e.jpg" alt="banner header (1560 × 340 px)" style="max-width: 100%;">
+![Learn English - 2560 x 1440 px(1)](https://user-images.githubusercontent.com/90817505/208836887-9ed422f9-2cfe-4f0e-9f31-06d949b70f79.jpeg)
+
 
 <h1 align="center">I Recently Graduated with a Bachelor of Science in Computer Science from DePaul University in Chicago</h3>
 
