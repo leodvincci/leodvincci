@@ -7,33 +7,39 @@
 <h1 align="center"></h3>
 
 
-<div  align="center">
-<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<!-- <h2 align="center">I'm Interested in Developing Solutions for Complex Science & Engineering Problems Utilizing Artificial Intelligence and Software Engineering</h4> -->
 
-</div>
-<h2 align="center">I'm Interested in Developing Solutions for Complex Science & Engineering Problems Utilizing Artificial Intelligence and Software Engineering</h4>
-
-
-
-<div  align="center">
-
- ### ‍🎓 I Recently Graduated with a Bachelor of Science in Computer Science
-
-<!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
- -->
- 
-### 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
-
-<!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
-
-### ⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
- 
- 
- 
 <div align="center">
  <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
 
 </div>
+
+
+<div align="center">
+
+ 
+ ## 🎓 I Recently Graduated with a Bachelor of Science in Computer Science
+
+<!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
+ -->
+ 
+## 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
+
+<!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
+## ⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
+ </div>
+ 
+ 
+ 
+ 
+ 
+<div  align="center">
+<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+</div>
+ 
+ 
+
 
 <p align="center"> <a href="https://twitter.com/ldpenrose" target="blank"><img src="https://img.shields.io/twitter/follow/ldpenrose?logo=twitter&style=for-the-badge" alt="ldpenrose" /></a> </p>
 
