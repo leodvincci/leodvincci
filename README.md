@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">I Recently Graduated with a Bachelor of Science in Computer Science from DePaul University in Chicago</h3>
+<h1 align="center"></h3>
 
 
 <div  align="center">
@@ -17,6 +17,7 @@
 
 <div  align="center">
 
+ ### ‍🎓 I Recently Graduated with a Bachelor of Science in Computer Science
 
 <!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
  -->
