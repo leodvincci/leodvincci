@@ -9,24 +9,34 @@
 
 <!-- <h2 align="center">I'm Interested in Developing Solutions for Complex Science & Engineering Problems Utilizing Artificial Intelligence and Software Engineering</h4> -->
 
-<div align="center">
- <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
 
+
+
+<div align="center">
+
+  ![snake gif](https://github.com/leodvincci/leodvincci/blob/output/github-contribution-grid-snake.gif)
+ <div >
+
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" /></p>
+
+
+   <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
+  
+  
+  
 </div>
 
-
-<div align="center">
-
- 
- ## 🎓 I Recently Graduated with a Bachelor of Science in Computer Science
+ 🎓 I Recently Graduated with a Bachelor of Science in Computer Science
 
 <!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
  -->
  
-## 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
+ 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
 
 <!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
-## ⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
+⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
  </div>
  
  
@@ -47,10 +57,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" /></p>
-
- ![snake gif](https://github.com/leodvincci/leodvincci/blob/output/github-contribution-grid-snake.gif)
 
 
 </div>
