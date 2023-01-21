@@ -16,6 +16,17 @@
 
   ![snake gif](https://github.com/leodvincci/leodvincci/blob/output/github-contribution-grid-snake.gif)
  <div >
+   
+   
+ 🎓 I Recently Graduated with a Bachelor of Science in Computer Science
+
+<!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
+ -->
+ 
+ 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
+
+<!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
+⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
@@ -28,15 +39,6 @@
   
 </div>
 
- 🎓 I Recently Graduated with a Bachelor of Science in Computer Science
-
-<!-- ### 👨‍💻 All of my projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
- -->
- 
- 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
-
-<!--  <h3> 📫 How to reach me **leodpenrose@gmail.com </h3> -->
-⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
  </div>
  
  
