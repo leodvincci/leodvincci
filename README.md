@@ -57,9 +57,16 @@
 <a href="https://linkedin.com/in/leodpenrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leodpenrose" height="60" width="80" /></a>
 </p>   
 <!--       -->
-   
+     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
    
  ![snake gif](https://github.com/leodvincci/leodvincci/blob/output/github-contribution-grid-snake.gif)
+
+
  <div >
    
    
@@ -75,12 +82,28 @@
    
    
    
+<!--  Stats   -->
    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" />
+   <div> 
+   <p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" />
+</p>
    
-   </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" />
+   
+</p>
+   
+   </div>
 
+   
+<!--     -->
+
+   
+   
+   
+   
+   
 
    <img  src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76112e65678dd24e210d71a5852237611636a2db0a16&rid=giphy.gif&ct=g" alt="Girl in a jacket" width="300" height="200"> 
   
