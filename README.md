@@ -29,6 +29,21 @@
 ⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
 
   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ldpenrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dvincicodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leodpenrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leodpenrose" height="30" width="40" /></a>
+</p>   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodvincci&show_icons=true&locale=en" alt="leodvincci" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodvincci&" alt="leodvincci" /></p>
 
@@ -64,11 +79,7 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ldpenrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dvincicodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leodpenrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leodpenrose" height="30" width="40" /></a>
-</p>
+
 
 
 
