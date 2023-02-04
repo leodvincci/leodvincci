@@ -29,14 +29,26 @@
     
  
 <!-- **My Blurb**   -->
- 🎓 I Recently Graduated with a Bachelor of Science in Computer Science
+  
+Hey 👋 I'm Leo. 
+Recent computer science graduate with a passion for web development, seeking entry-level opportunities as a software engineer. I am a proactive and driven individual with a strong foundation in computer science, seeking challenging and dynamic opportunities to grow and make an impact in the field. 
+
+With a passion for web development and a drive for excellence, I am dedicated to delivering high-quality and innovative solutions. I'm proficient in HTML, CSS,JavaScript, Java, Python, and JavaScript and I have developed several projects that showcase my ability to develop engaging user interfaces and demonstrate my ability to design and implement efficient algorithms. 
+
+My strong analytical skills, attention to detail, and problem-solving abilities have equipped me with the tools necessary to tackle complex software engineering challenges. I am excited to leverage my education and hands-on experience to help organizations achieve their goals and drive growth in the industry. 
+
+My ability to work collaboratively and communicate effectively, combined with my analytical and problem-solving skills, make me a valuable asset to any team. I am eager to join an organization that values growth and innovation, and where I can contribute my skills and enthusiasm to drive success. 
+
+Connect with me to learn more.
+  
+<!--  🎓 I Recently Graduated with a Bachelor of Science in Computer Science
 
  👨‍💻 My projects are available at [https://leodpenrose.netlify.app/](https://leodpenrose.netlify.app/)
 
- 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog)
+ 📝 I sometimes write articles on [https://www.leopenrose.tech/blog](https://www.leopenrose.tech/blog) -->
 <!-- 
  📫 **leodpenrose@gmail.com -->
-⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries**
+<!-- ⚡ Fun fact **I'm a Navy Vet with 3 deployments and have visted about 10 different countries** -->
 
 <!--  ****   -->
 
