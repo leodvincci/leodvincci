@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Leo D. Penrose</h1>
-
-
-
-
 
 
 
