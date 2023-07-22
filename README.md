@@ -78,7 +78,6 @@ Connect with me to learn more.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
    
- ![snake gif](https://github.com/leodvincci/leodvincci/blob/output/github-contribution-grid-snake.gif)
 
 
  <div >
@@ -96,7 +95,10 @@ Connect with me to learn more.
    
    
    
-<!--  Stats   -->
+<!--  Stats  
+ ![snake gif](https://github.com/leodvincci/leodvincci/blob/output/github-contribution-grid-snake.gif)
+
+-->
    
    <div> 
 
